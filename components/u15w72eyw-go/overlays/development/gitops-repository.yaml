@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u15w72eyw-go-gitops-repository
+spec:
+  url: https://github.com/testrhtaporg/u15w72eyw-go-gitops
